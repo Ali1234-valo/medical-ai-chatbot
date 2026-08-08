@@ -1,4 +1,6 @@
+streamlit
 python-dotenv
+langchain
 langchain-core
 langchain-community
 langchain-groq
@@ -10,5 +12,3 @@ transformers
 torch
 huggingface-hub
 accelerate
-streamlit
-pypdf
